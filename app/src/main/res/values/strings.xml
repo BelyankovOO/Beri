@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beri</string>
+    <string name="enter_button">Войти</string>
+    <string name="skip_button">Пропустить</string>
+    <string name="clue_for_phone">Введите номер телефона</string>
+    <string name="clue_for_code">Введите код</string>
+    <string name="get_code">Получить код</string>
+    <string name="enter_code">Применить код</string>
+    <string name="cancel">Отмена</string>
+    <string name="contentDescription">Pressed</string>
+    <string name="phone_example">89153061935</string>
+    <string name="code_example">123456</string>
+    <string name="category_description">Выбирайте подкатегории для поиска подходящих вам промо акций.\n
+        Добавляйте или удаляйте подкатегории, отображенные ниже.
+    </string>
+    <string name="chosen_subcategory">Выбранные</string>
+    <string name="unchosen_subcategory">Не выбранные</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sing_in_description">It looks like you are not logged in yet</string>
+    <string name="sing_out">Выход</string>
+    <string name="phone_description">Телефон</string>
+</resources>
